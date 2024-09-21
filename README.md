@@ -8,7 +8,7 @@ End to end process to create a persistent alias.
 ```
 alias name='command'
 ```
-Above command should be executed in terminal to set alias. But, above coomand will set alias only for current session. Once terminal is closed, the alias will get destroyed.
+Above command should be executed in terminal to set alias. But, above command will set alias only for current session. Once terminal is closed, the alias will get destroyed.
 
 #### Steps to set alias which always persists
 
